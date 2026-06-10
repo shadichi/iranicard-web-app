@@ -1,0 +1,20 @@
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A
+B=c[0]
+C=c[2]
+A=c[142]
+var z=a.updateTypes([]);(function constants(){var y=a.makeConstList
+A.xc=new B.Z(1,0.20392156862745098,0.7803921568627451,0.34901960784313724,C.t)
+A.HH=new B.Z(1,0.18823529411764706,0.8196078431372549,0.34509803921568627,C.t)
+A.HT=new B.Z(1,0.1411764705882353,0.5411764705882353,0.23921568627450981,C.t)
+A.Hz=new B.Z(1,0.18823529411764706,0.8588235294117647,0.3568627450980392,C.t)
+A.xG=new B.el(A.xc,"systemGreen",null,A.xc,A.HH,A.HT,A.Hz,A.xc,A.HH,A.HT,A.Hz)
+A.wW=new B.Z(0.1568627450980392,0.47058823529411764,0.47058823529411764,0.5019607843137255,C.t)
+A.Il=new B.Z(0.3176470588235294,0.47058823529411764,0.47058823529411764,0.5019607843137255,C.t)
+A.Ic=new B.Z(0.23921568627450981,0.47058823529411764,0.47058823529411764,0.5019607843137255,C.t)
+A.HG=new B.Z(0.4,0.47058823529411764,0.47058823529411764,0.5019607843137255,C.t)
+A.IL=new B.el(A.wW,"secondarySystemFill",null,A.wW,A.Il,A.Ic,A.HG,A.wW,A.Il,A.Ic,A.HG)
+A.ahZ=new B.Z(0.058823529411764705,0,0,0,C.t)
+A.aaF=new B.hS(0,C.dN,A.ahZ,C.tH,1)
+A.N7=y([C.Gs,A.aaF],B.K("A<hS>"))})()};
+(a=>{a["lJ1VUNGtS6eAmiiLA1Q6YsebDEI="]=a.current})($__dart_deferred_initializers__);

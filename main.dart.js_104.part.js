@@ -42,7 +42,7 @@ C=a.updateHolder(c[137],C)
 B=c[268]
 C.w2.prototype={
 rk(d){var x,w=this,v=null
-if(d.d){A.aKf(!1,!1,B.bgC,w.ch)
+if(d.d){A.aKf(!1,!1,B.bgD,w.ch)
 return v}if(d.e){x=w.cy
 if(x!=="null")return A.ij(v,v,"/profile/orders/orderDetails/"+x,v,v,v,v,v)
 else return v}x=d.c
@@ -143,7 +143,7 @@ x(C.aEs,A.ku)})()
 A.bG(b.typeUniverse,JSON.parse('{"w2":{"ar":[]}}'))
 var y=(function rtii(){var x=A.K
 return{C:x("v9"),h:x("aP<~>"),y:x("A<~()?>"),o:x("U<~()>"),m:x("jI"),w:x("o"),t:x("qO"),e:x("B"),b:x("@"),q:x("R?")}})();(function constants(){B.cQ=new A.a6(D.d7,[],A.K("a6<@,@>"))
-B.bgC=new A.MT(2,"perfectMoney")
+B.bgD=new A.MT(2,"perfectMoney")
 B.a1h=new C.aEs(0,"order")
 B.C5=new C.aEs(1,"factor")})()};
-(a=>{a["KCC+hiutn4FDgy5iduws2GivQzQ="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["kIv6EjGFgjvlzCHsKUxagH6xAFA="]=a.current})($__dart_deferred_initializers__);

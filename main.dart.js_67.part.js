@@ -661,7 +661,7 @@ $S:4}
 B.bLN.prototype={
 $1(d){var w,v,u,t,s,r,q="data",p="status",o="price",n=x.j
 if(n.b(J.v(d.a,q)))if(J.eZ(n.a(J.v(d.a,q)))){for(n=J.b0(J.v(d.a,q)),w=x.n,v=0,u=0,t=0;n.E();){s=n.gT()
-r=J.bn(s)
+r=J.bo(s)
 if(J.u(r.h(s,p),"waiting_for_settlement")){r=A.T(r.h(s,o),!1,w)
 t+=r==null?0:r}else if(J.u(r.h(s,p),"deposit")){r=A.T(r.h(s,o),!1,w)
 v+=r==null?0:r}else if(J.u(r.h(s,p),"settlement")){r=A.T(r.h(s,o),!1,w)
@@ -800,7 +800,7 @@ $1(d){var w,v=this.a
 if(v.w)v=D.aiz
 else{w=v.ay
 w===$&&A.b()
-w=A.afS(D.axX,w)
+w=A.afS(D.axY,w)
 v=A.rE(w,v.f,new B.cW5(v,this.b))}return v},
 $S:26}
 B.cW5.prototype={
@@ -1068,10 +1068,10 @@ D.a1k=new B.aEA(null)
 D.akp=new A.p6(D.a1k,null)
 D.a1i=new B.aEt(null)
 D.akC=new A.p6(D.a1i,null)
-D.asm=new A.FC("REFERRAL_CODE_REGISTER",14,"referralCodeRegister")
-D.blT=new B.ach(null)
-D.blR=new B.acc(null)
-D.axX=w([D.blT,D.blR],x.p)})();(function lazyInitializers(){var w=a.lazy
-w($,"emz","dmd",()=>{var v=A.a84(D.asm)
+D.asn=new A.FC("REFERRAL_CODE_REGISTER",14,"referralCodeRegister")
+D.blU=new B.ach(null)
+D.blS=new B.acc(null)
+D.axY=w([D.blU,D.blS],x.p)})();(function lazyInitializers(){var w=a.lazy
+w($,"emz","dmd",()=>{var v=A.a84(D.asn)
 return v==null?"":v})})()};
-(a=>{a["viqDU7wMTZehZzrsEg/Q950ZSK0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["sB31tEWWk43fDsoBfYhRR5tQUgU="]=a.current})($__dart_deferred_initializers__);

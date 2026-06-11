@@ -268,7 +268,7 @@ if(q==null){q=w.q
 if(q==null)q=w.k3}}q=A.ae(F.KN,q,s,18)}return A.z(A.a([o,C.ar,m,C.ar,A.aF(!1,n,!0,q,s,!0,s,s,s,s,s,s,s,s,s,s,s,x,s,s,s,s,s,s,s)],y.p),C.d,C.oa,C.C,0,s)}}
 B.Yr.prototype={
 t(d){var x=null,w=$.ac().l(0,2)
-return A.y(x,A.dn4(new B.c_a(),C.ay,x,A.bh().cf(!0),C.arD,this.c,x,new B.c_b(),x),C.f,x,x,new A.F(x,x,x,w,x,x,x,C.m),x,150,x,x,x,x,x,150)}}
+return A.y(x,A.dn4(new B.c_a(),C.ay,x,A.bh().cf(!0),C.arE,this.c,x,new B.c_b(),x),C.f,x,x,new A.F(x,x,x,w,x,x,x,C.m),x,150,x,x,x,x,x,150)}}
 var z=a.updateTypes(["~(C_)","l(l{message!@,nextMessageInGroup!B})","U<nB<o>>(I)","Hz(I)","Jp(I)","Yr(vD{messageWidth:p})","m8(vq{messageWidth:p})"])
 B.d8D.prototype={
 $1(d){return this.aWm(d)},
@@ -394,7 +394,7 @@ return A.j($async$$1,w)},
 $S:108}
 B.d8y.prototype={
 $1(d){var x="close_ticket",w=null,v=this.a
-return A.a([K.aDB(A.z(A.a([D.arf,C.bq,A.m(A.c(x),w,w,w,w,v.ok.as.v(v.ax.y),w,w,w,w)],y.p),C.d,C.G,C.c,0,w),48,w,x,y.N)],y.X)},
+return A.a([K.aDB(A.z(A.a([D.arg,C.bq,A.m(A.c(x),w,w,w,w,v.ok.as.v(v.ax.y),w,w,w,w)],y.p),C.d,C.G,C.c,0,w),48,w,x,y.N)],y.X)},
 $S:z+2}
 B.d8B.prototype={
 $1(d){return new A.dM(new B.d8k(this.a),!0,null)},
@@ -414,7 +414,7 @@ B.d8s.prototype={
 $1(d){return I.a5o},
 $S:z+3}
 B.d8A.prototype={
-$1(a2){var x,w,v,u,t,s,r,q,p,o,n,m=null,l=this.a,k=l.at?m:new B.d8l(l),j=A.c("send_media"),i=A.c("send"),h=l.at?A.c("is_close_ticket"):A.c("write_message"),g=this.b,f=l.at?N.a23:D.bnL,e=l.ay,d=g.ax,a0=d.b,a1=d.RG
+$1(a2){var x,w,v,u,t,s,r,q,p,o,n,m=null,l=this.a,k=l.at?m:new B.d8l(l),j=A.c("send_media"),i=A.c("send"),h=l.at?A.c("is_close_ticket"):A.c("write_message"),g=this.b,f=l.at?N.a23:D.bnM,e=l.ay,d=g.ax,a0=d.b,a1=d.RG
 if(a1==null)a1=d.k2
 x=d.k2
 w=g.ok
@@ -432,7 +432,7 @@ p=C.R.l(0,1.5)
 s=s.l(0,4)
 $.r()
 n=l.as
-q=E.dnC(A.EB(A.y(m,A.F4(C.X,A.m(new A.a5($.a_().a).K(C.l.k(n.length)),m,m,m,m,w.Q.v(d.c),C.a6,m,m,m),C.f,C.aaA),C.f,m,m,new A.F(a0,m,m,s,m,m,m,C.m),m,24,m,m,C.R,m,m,24),C.l.k(n.length),D.ar3,p,0,0),x,x,r,u,a0,o,v,20,16,a0,t,a1,q,N.a57,C.n)
+q=E.dnC(A.EB(A.y(m,A.F4(C.X,A.m(new A.a5($.a_().a).K(C.l.k(n.length)),m,m,m,m,w.Q.v(d.c),C.a6,m,m,m),C.f,C.aaA),C.f,m,m,new A.F(a0,m,m,s,m,m,m,C.m),m,24,m,m,C.R,m,m,24),C.l.k(n.length),D.ar4,p,0,0),x,x,r,u,a0,o,v,20,16,a0,t,a1,q,N.a57,C.n)
 a1=y.N
 a1=A.D(["Authorization","Bearer "+A.t(l.d.ax.gbv())],a1,a1)
 return E.dn8(l.gbGP(),m,m,!1,!0,A.aW(A.m(A.c("first_ticket_message"),m,m,m,m,w.y.v(d.y),m,m,m,m),m,m),new B.d8m(l,g),a1,new B.d8n(),new E.aAn(f),e,new E.auI("and",j,"No messages here yet","File",h,"is typing...","others",i,"Unread messages"),l.x,k,new B.d8o(l),l.gbGR(),C.bv,q,C.ek)},
@@ -444,7 +444,7 @@ for(;;)A:switch(x){case 0:x=3
 return A.d($.Bl.bd().ao5(!0,C.hK),$async$$0)
 case 3:r=e
 if(r!=null){t=r.a
-s=J.bn(t)
+s=J.bo(t)
 if(s.gL(t)>3){t=A.c("error")
 A.bj($.r(),t,new A.a5($.a_().a).K(A.c("max_image_count")),C.a8,C.r)
 x=1
@@ -575,7 +575,7 @@ x(A.cX,[B.d8t,B.d8o])
 w(B.Yr,A.P)})()
 A.bG(b.typeUniverse,JSON.parse('{"agu":{"E":[],"l":[]},"aoR":{"G":["agu"]},"a9o":{"E":[],"l":[]},"aSu":{"G":["a9o"]},"Yr":{"P":[],"l":[]}}'))
 var y=(function rtii(){var x=A.K
-return{A:x("iB"),n:x("A<kj>"),Q:x("A<G_>"),S:x("A<nz>"),X:x("A<nB<o>>"),L:x("A<+(o,B)>"),R:x("A<mC>"),p:x("A<l>"),u:x("A<B>"),P:x("aH"),K:x("R"),e:x("jI"),N:x("o"),s:x("CP"),D:x("ur"),z:x("@"),T:x("o?"),H:x("~")}})();(function constants(){D.ar3=new A.dB(C.lC,28,null,null,null)
-D.arf=new A.dB(F.L9,null,null,null,null)
-D.bnL=new E.aeb(0,"always")})()};
-(a=>{a["lkVzgRmKGUA0HTaOFS11rmDBThI="]=a.current})($__dart_deferred_initializers__);
+return{A:x("iB"),n:x("A<kj>"),Q:x("A<G_>"),S:x("A<nz>"),X:x("A<nB<o>>"),L:x("A<+(o,B)>"),R:x("A<mC>"),p:x("A<l>"),u:x("A<B>"),P:x("aH"),K:x("R"),e:x("jI"),N:x("o"),s:x("CP"),D:x("ur"),z:x("@"),T:x("o?"),H:x("~")}})();(function constants(){D.ar4=new A.dB(C.lC,28,null,null,null)
+D.arg=new A.dB(F.L9,null,null,null,null)
+D.bnM=new E.aeb(0,"always")})()};
+(a=>{a["PQ5p1VJWQ8JBB5Ysi6zGC3fDbZg="]=a.current})($__dart_deferred_initializers__);

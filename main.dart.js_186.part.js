@@ -445,7 +445,7 @@ return A.j($async$a_d,v)},
 bBI(){var w,v=null,u=A.c("notice"),t=A.c("waiting_for_settlement")
 $.r()
 w=x.N
-return A.C(A.a([C.Q,A.nm(new A.l5(C.kR,u,t,A.by("wait_for_settle_price_desc",A.D(["waitForSettlePrice",A.aX(new A.a5($.a_().a).K(A.aX(C.j.a9(this.e.fr.b,0),",")),",")],w,w)),v),!0,!0,!1,v,new B.cW4(this),v,C.F)],x.p),C.d,v,C.e,C.c,0,v,C.i)},
+return A.C(A.a([C.Q,A.nm(new A.l5(C.kQ,u,t,A.by("wait_for_settle_price_desc",A.D(["waitForSettlePrice",A.aX(new A.a5($.a_().a).K(A.aX(C.j.a9(this.e.fr.b,0),",")),",")],w,w)),v),!0,!0,!1,v,new B.cW4(this),v,C.F)],x.p),C.d,v,C.e,C.c,0,v,C.i)},
 t(d){var w,v,u=this,t=null,s=A.q(d),r=A.c("earn_money_from_iranicard"),q=u.as,p=s.ax.b.V(0.05),o=u.w
 if(o){w=$.cr()
 v=u.as?t:new B.cWc(u)
@@ -832,7 +832,7 @@ case 3:return A.i(null,v)}})
 return A.j($async$$0,v)},
 $S:1}
 B.cWg.prototype={
-$1(d){return D.blV},
+$1(d){return D.blW},
 $S:z+0}
 B.cWf.prototype={
 $1(d){return new A.dM(new B.cW6(this.a),!0,null)},
@@ -853,7 +853,7 @@ $1(d){var w,v=this.a
 if(v.w)v=D.aiA
 else{w=v.ay
 w===$&&A.b()
-w=A.afS(D.axY,w)
+w=A.afS(D.axZ,w)
 v=A.rE(w,v.f,new B.cW7(v,this.b))}return v},
 $S:26}
 B.cW7.prototype={
@@ -1055,9 +1055,9 @@ D.a1l=new B.aEB(null)
 D.akq=new A.mb(D.a1l,null)
 D.a1j=new B.aEu(null)
 D.akD=new A.mb(D.a1j,null)
-D.blU=new B.aci(null)
-D.blS=new B.acd(null)
-D.axY=w([D.blU,D.blS],x.p)
-D.blV=new B.Wn(null)})();(function lazyInitializers(){var w=a.lazy
+D.blV=new B.aci(null)
+D.blT=new B.acd(null)
+D.axZ=w([D.blV,D.blT],x.p)
+D.blW=new B.Wn(null)})();(function lazyInitializers(){var w=a.lazy
 w($,"esk","dP1",()=>B.dZO(0,0,0))})()};
-(a=>{a["Y2cKJz5cs7tTN/n0zRuw1+sf5Mk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["S+nahvSdjWEf4lrbt+QtLzfozdQ="]=a.current})($__dart_deferred_initializers__);

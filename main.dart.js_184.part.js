@@ -148,7 +148,7 @@ return A.ed(null,new B.d6e(x,w),J.aQ(x.f),null,C.ab,!1,C.o,new B.d6f(w),!1)},
 $S:19}
 B.d6e.prototype={
 $2(d,e){var x=null,w=this.a
-return A.aF(!1,x,!0,new A.W(D.anl,A.m(J.v(w.f,e).b,2,C.K,x,x,this.b.ok.y,x,x,x,x),x),x,!0,x,x,x,x,x,x,x,x,x,x,x,new B.d6d(w,e),x,x,x,x,x,x,x)},
+return A.aF(!1,x,!0,new A.W(D.anm,A.m(J.v(w.f,e).b,2,C.K,x,x,this.b.ok.y,x,x,x,x),x),x,!0,x,x,x,x,x,x,x,x,x,x,x,new B.d6d(w,e),x,x,x,x,x,x,x)},
 $S:59}
 B.d6d.prototype={
 $0(){return A.ek("termsAndConditionsDetailsScreen",new B.aIt(J.v(this.a.f,this.b),null),!1,y.A)},
@@ -170,5 +170,5 @@ w(A.ck,[B.d6k,B.d6l,B.d6g,B.d6d])
 w(A.cX,[B.d6e,B.d6f])})()
 A.bG(b.typeUniverse,JSON.parse('{"ag3":{"ar":[]},"aIt":{"P":[],"l":[]},"wq":{"E":[],"l":[]},"aoE":{"G":["wq"]}}'))
 var y=(function rtii(){var x=A.K
-return{B:x("aP<~>"),V:x("A<ag2>"),p:x("A<l>"),z:x("A<~()?>"),x:x("U<~()>"),o:x("+(B,U<ag2>?)"),e:x("jI"),N:x("o"),D:x("ag3"),l:x("l"),A:x("@"),g:x("U<@>?"),X:x("R?"),H:x("~")}})();(function constants(){D.anl=new A.au(20,14,20,14)})()};
-(a=>{a["euHx+nCeocOV1aBwlKUjGPgF7mw="]=a.current})($__dart_deferred_initializers__);
+return{B:x("aP<~>"),V:x("A<ag2>"),p:x("A<l>"),z:x("A<~()?>"),x:x("U<~()>"),o:x("+(B,U<ag2>?)"),e:x("jI"),N:x("o"),D:x("ag3"),l:x("l"),A:x("@"),g:x("U<@>?"),X:x("R?"),H:x("~")}})();(function constants(){D.anm=new A.au(20,14,20,14)})()};
+(a=>{a["4gjUUXDUFoj99A74s/rRMggMxV8="]=a.current})($__dart_deferred_initializers__);

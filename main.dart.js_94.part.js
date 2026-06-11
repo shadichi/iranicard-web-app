@@ -26,7 +26,7 @@ x="packages/iranexchange/assets/images/svgs/launch_day_not_found.svg"}else x="as
 x=A.bP(x,u,C.a0,u,u,u)
 w=A.m(A.c("page_not_found"),u,u,u,u,this.a.ok.y,C.a6,u,u,u)
 v=$.e7()
-return A.aW(A.C(A.a([x,D.bqn,w,C.p,new A.O(170,u,A.bq(A.m(A.c("return"),u,u,u,u,u,u,u,u,u),new B.bG5(),v),u)],y.e),C.d,u,C.G,C.c,0,u,C.i),u,u)},
+return A.aW(A.C(A.a([x,D.bqo,w,C.p,new A.O(170,u,A.bq(A.m(A.c("return"),u,u,u,u,u,u,u,u,u),new B.bG5(),v),u)],y.e),C.d,u,C.G,C.c,0,u,C.i),u,u)},
 $S:130}
 B.bG5.prototype={
 $0(){A.cj(null,C.I,C.P,"home")},
@@ -35,5 +35,5 @@ x(B.aCN,A.P)
 x(B.bG6,A.c0)
 x(B.bG5,A.ck)})()
 A.bG(b.typeUniverse,JSON.parse('{"aCN":{"P":[],"l":[]}}'))
-var y={h:A.K("jM"),e:A.K("A<l>")};(function constants(){D.bqn=new A.O(null,64,null,null)})()};
-(a=>{a["BmA/fcSicv92SPUCXn9HmIec8yM="]=a.current})($__dart_deferred_initializers__);
+var y={h:A.K("jM"),e:A.K("A<l>")};(function constants(){D.bqo=new A.O(null,64,null,null)})()};
+(a=>{a["uEp0dfAEts/KfH6i/Gq5BIBIHAU="]=a.current})($__dart_deferred_initializers__);

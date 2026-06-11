@@ -147,7 +147,7 @@ A.bv(s.fx,t,B.a2)}u.p(new C.d6Z(u))
 return A.i(null,v)}})
 return A.j($async$R_,v)},
 t(d){var w=this,v=null
-return A.eV(A.yq(d,!1,D.bz_,!0,!1,!0,new C.d6U(w),v,A.c("tether_gold"),0),v,v,v,v,!1,!1,v,!1,v,v,v,v,new C.d6V(),v,v,v,v,!0,v,!1,v,v,v,!1,w.f,!1,!1,new C.d6W(),!1,v,new C.d6X(w),w.gbUF(),v)}}
+return A.eV(A.yq(d,!1,D.bz0,!0,!1,!0,new C.d6U(w),v,A.c("tether_gold"),0),v,v,v,v,!1,!1,v,!1,v,v,v,v,new C.d6V(),v,v,v,v,!0,v,!1,v,v,v,!1,w.f,!1,!1,new C.d6W(),!1,v,new C.d6X(w),w.gbUF(),v)}}
 C.ag5.prototype={
 D(){$.r()
 var w=$.n
@@ -357,7 +357,7 @@ if(v==null)A.V(y.h)
 if(v.gbH()){w.toString
 w=y.b}else w="assets/images/svgs/digital_gold.svg"
 v=x.p
-return A.b3(A.a([B.p,A.z(A.a([new A.O(230,u,A.bP(w,u,B.a0,u,u,230),u)],v),B.d,B.G,B.c,0,u),B.p,D.brO,B.bO],v),u,u,B.bv,B.o,!0)},
+return A.b3(A.a([B.p,A.z(A.a([new A.O(230,u,A.bP(w,u,B.a0,u,u,230),u)],v),B.d,B.G,B.c,0,u),B.p,D.brP,B.bO],v),u,u,B.bv,B.o,!0)},
 $S:19}
 C.d6N.prototype={
 $1(d){var w
@@ -422,6 +422,6 @@ w(C.b2j,A.ee)})()
 A.bG(b.typeUniverse,JSON.parse('{"a6U":{"ar":[]},"ag7":{"E":[],"l":[]},"aoG":{"G":["ag7"]},"ag5":{"E":[],"l":[]},"aoF":{"G":["ag5"]},"ag6":{"E":[],"l":[]},"aZC":{"G":["ag6"]}}'))
 var y={h:"IranExchangeConfig is not initialized, call IranExchangeConfigManager.init() first",b:"packages/iranexchange/assets/images/svgs/digital_gold.svg"}
 var x=(function rtii(){var w=A.K
-return{k:w("jM"),u:w("lE"),_:w("a6U"),B:w("aP<~>"),V:w("A<uo>"),p:w("A<l>"),z:w("A<~()?>"),x:w("U<~()>"),y:w("Vd"),N:w("o"),Y:w("zs"),X:w("R?"),H:w("cV"),n:w("~")}})();(function constants(){D.brO=new C.ag6(null)
-D.bz_=new A.ci("tether-gold-app-bar",A.K("ci<o>"))})()};
-(a=>{a["HYOsBSrY2UBbgi2yySTyG6fXKAM="]=a.current})($__dart_deferred_initializers__);
+return{k:w("jM"),u:w("lE"),_:w("a6U"),B:w("aP<~>"),V:w("A<uo>"),p:w("A<l>"),z:w("A<~()?>"),x:w("U<~()>"),y:w("Vd"),N:w("o"),Y:w("zs"),X:w("R?"),H:w("cV"),n:w("~")}})();(function constants(){D.brP=new C.ag6(null)
+D.bz0=new A.ci("tether-gold-app-bar",A.K("ci<o>"))})()};
+(a=>{a["5yXSHq4EV2KPMZn9XoNoHgO51XA="]=a.current})($__dart_deferred_initializers__);
